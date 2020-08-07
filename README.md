@@ -6,3 +6,5 @@ FIFA_final.Rmd: an R Markdown file with code for all our models.
 FIFA_final_doc.docx: the output of our RMD.
 
 FIFA_final_writeup.docx: a writeup explaining our choices, models, and findings. 
+
+FIFA_final_ppt.pptx: a powerpoint explaining our process and findings.
